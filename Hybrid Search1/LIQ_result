@@ -1,0 +1,7 @@
+c
+c This is glucose 4.0 --  based on MiniSAT (Many thanks to MiniSAT team)
+c
+c | Preprocesing is fully done
+c |  Eliminated clauses:           0.03 Mb                                                                |
+c |                                                                                                       |
+s UNSATISFIABLE

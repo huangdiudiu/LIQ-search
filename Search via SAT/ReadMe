@@ -1,0 +1,2 @@
+1.You can run LIQ_SAT.py with "python LIQ_SAT.py" to generate SAT input file *.cnf.
+2.You can verify the results by run glucose.

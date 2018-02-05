@@ -1,0 +1,3 @@
+1.LIQ(i)_(n).ta(x) means property(i) order(n) and (x) disjoint Latin square searched by MACE4.
+2.You can run HrbridSearch via : python HybridSearch1.py LIQ(i)_(n).ta(x).
+Example:  python HybridSearch1.py LIQ2_9.ta1
