@@ -133,7 +133,7 @@ def Lartin(Fnum):
             for col in range(0, order):
                 if row == col:  # 第一种情况 col==row对角线上元素
                     for j in range(row + 1, order):
-                        s1 = "-" + alignstr(i + 1) + alignstr(row) + alignstr(j) + alignstr(row) + " 0\n"
+                        s1 = "-" + alignstr(i + 1) + alignstr(j) + alignstr(col) + alignstr(row) + " 0\n"
                         outfile.write(s1)
                 elif row == 0 and col == 1:  # 第二种情况f(0,1)
                     for j in range(row + 1, order):
